@@ -1,2 +1,2 @@
 # shooting-game2
-term project
+Shoot the enemy!
